@@ -1,0 +1,442 @@
+<svg
+    version='1.1'
+    xmlns='http://www.w3.org/2000/svg'
+    viewBox='0 0 100 100'
+    preserveAspectRatio='none'
+    height='1200'
+    width='1800'>
+
+        <polygon points='0.50,6.00 0.50,0.00 0.00,0.00 0.00,6.00 ' style='stroke-width:0.1;stroke:#3c4b5e;fill:#3c4b5e' />
+        <polygon points='0.50,6.00 1.50,6.08 1.92,6.01 4.00,3.58 4.00,0.00 0.50,0.00 ' style='stroke-width:0.1;stroke:#3a495a;fill:#3a495a' />
+        <polygon points='4.00,3.58 8.05,2.91 9.50,0.00 4.00,0.00 ' style='stroke-width:0.1;stroke:#374657;fill:#374657' />
+        <polygon points='13.17,1.83 13.50,1.50 13.50,0.00 9.50,0.00 ' style='stroke-width:0.1;stroke:#384655;fill:#384655' />
+        <polygon points='13.50,1.50 16.50,1.50 16.50,0.00 13.50,0.00 ' style='stroke-width:0.1;stroke:#384758;fill:#384758' />
+        <polygon points='16.50,1.50 17.93,2.93 19.56,2.28 20.13,0.00 16.50,0.00 ' style='stroke-width:0.1;stroke:#637084;fill:#637084' />
+        <polygon points='24.33,3.00 25.00,3.00 25.50,2.50 25.50,0.00 23.33,0.00 ' style='stroke-width:0.1;stroke:#384655;fill:#384655' />
+        <polygon points='25.50,2.50 29.25,0.00 25.50,0.00 ' style='stroke-width:0.1;stroke:#384655;fill:#384655' />
+        <polygon points='30.20,1.00 34.33,1.00 34.67,0.00 29.60,0.00 ' style='stroke-width:0.1;stroke:#3c4e60;fill:#3c4e60' />
+        <polygon points='38.78,4.06 40.00,3.75 40.00,0.00 36.75,0.00 ' style='stroke-width:0.1;stroke:#58677a;fill:#58677a' />
+        <polygon points='40.00,3.75 43.09,4.52 44.90,0.00 40.00,0.00 ' style='stroke-width:0.1;stroke:#5b6a7d;fill:#5b6a7d' />
+        <polygon points='52.50,3.50 53.00,3.17 53.00,0.00 45.50,0.00 ' style='stroke-width:0.1;stroke:#667387;fill:#667387' />
+        <polygon points='53.00,3.17 55.00,4.06 58.23,4.77 58.50,4.50 58.50,0.00 53.00,0.00 ' style='stroke-width:0.1;stroke:#818ea2;fill:#818ea2' />
+        <polygon points='58.50,4.50 62.50,1.30 62.50,0.00 58.50,0.00 ' style='stroke-width:0.1;stroke:#707d91;fill:#707d91' />
+        <polygon points='62.50,1.30 67.00,4.00 67.00,0.00 62.50,0.00 ' style='stroke-width:0.1;stroke:#6f7e91;fill:#6f7e91' />
+        <polygon points='67.00,4.00 67.30,4.30 68.00,4.56 69.09,4.16 70.13,0.00 67.00,0.00 ' style='stroke-width:0.1;stroke:#566578;fill:#566578' />
+        <polygon points='76.17,5.17 77.04,6.04 78.31,5.66 80.00,4.25 80.00,0.00 75.43,0.00 ' style='stroke-width:0.1;stroke:#8d97ac;fill:#8d97ac' />
+        <polygon points='80.00,4.25 82.00,3.25 82.00,0.00 80.00,0.00 ' style='stroke-width:0.1;stroke:#4b5c72;fill:#4b5c72' />
+        <polygon points='82.00,3.25 84.50,2.83 86.00,2.33 86.00,0.00 82.00,0.00 ' style='stroke-width:0.1;stroke:#3d4c5f;fill:#3d4c5f' />
+        <polygon points='86.00,2.33 87.75,3.50 91.50,3.50 91.50,0.00 86.00,0.00 ' style='stroke-width:0.1;stroke:#384758;fill:#384758' />
+        <polygon points='91.50,3.50 93.89,5.21 96.50,0.00 91.50,0.00 ' style='stroke-width:0.1;stroke:#909eb4;fill:#909eb4' />
+        <polygon points='98.50,0.50 100.00,0.50 100.00,0.00 98.00,0.00 ' style='stroke-width:0.1;stroke:#6b7988;fill:#6b7988' />
+        <polygon points='22.82,3.91 24.33,3.00 23.33,0.00 20.13,0.00 19.56,2.28 ' style='stroke-width:0.1;stroke:#384758;fill:#384758' />
+        <polygon points='35.17,3.50 37.15,4.99 38.78,4.06 36.75,0.00 34.67,0.00 34.33,1.00 ' style='stroke-width:0.1;stroke:#868b9f;fill:#868b9f' />
+        <polygon points='76.17,5.17 75.43,0.00 70.13,0.00 69.09,4.16 ' style='stroke-width:0.1;stroke:#c2cce1;fill:#c2cce1' />
+        <polygon points='100.00,3.50 100.00,0.50 98.50,0.50 ' style='stroke-width:0.1;stroke:#657382;fill:#657382' />
+        <polygon points='11.50,5.50 12.63,4.00 13.17,1.83 9.50,0.00 8.05,2.91 ' style='stroke-width:0.1;stroke:#384758;fill:#384758' />
+        <polygon points='30.70,3.50 35.17,3.50 34.33,1.00 30.20,1.00 ' style='stroke-width:0.1;stroke:#3b4d5f;fill:#3b4d5f' />
+        <polygon points='45.21,7.00 45.83,7.00 50.90,5.10 52.50,3.50 45.50,0.00 44.90,0.00 43.09,4.52 ' style='stroke-width:0.1;stroke:#8390a4;fill:#8390a4' />
+        <polygon points='94.06,5.50 100.00,5.50 100.00,3.50 98.50,0.50 98.00,0.00 96.50,0.00 93.89,5.21 ' style='stroke-width:0.1;stroke:#35414d;fill:#35414d' />
+        <polygon points='17.50,4.00 17.93,2.93 16.50,1.50 13.50,1.50 13.17,1.83 12.63,4.00 ' style='stroke-width:0.1;stroke:#3a495a;fill:#3a495a' />
+        <polygon points='29.21,7.21 30.70,3.50 30.20,1.00 29.60,0.00 29.25,0.00 25.50,2.50 25.00,3.00 ' style='stroke-width:0.1;stroke:#384758;fill:#384758' />
+        <polygon points='12.01,9.09 17.50,6.90 17.50,4.00 12.63,4.00 11.50,5.50 ' style='stroke-width:0.1;stroke:#3c4b5e;fill:#3c4b5e' />
+        <polygon points='17.50,6.90 20.23,8.54 21.94,8.29 22.82,3.91 19.56,2.28 17.93,2.93 17.50,4.00 ' style='stroke-width:0.1;stroke:#3c4e60;fill:#3c4e60' />
+        <polygon points='29.38,8.53 30.89,9.67 36.62,6.23 37.15,4.99 35.17,3.50 30.70,3.50 29.21,7.21 ' style='stroke-width:0.1;stroke:#3e4f65;fill:#3e4f65' />
+        <polygon points='59.32,6.68 60.68,8.32 61.00,8.50 67.30,4.30 67.00,4.00 62.50,1.30 58.50,4.50 58.23,4.77 ' style='stroke-width:0.1;stroke:#cdd6e9;fill:#cdd6e9' />
+        <polygon points='6.10,9.50 11.83,9.50 12.01,9.09 11.50,5.50 8.05,2.91 4.00,3.58 1.92,6.01 ' style='stroke-width:0.1;stroke:#44556b;fill:#44556b' />
+        <polygon points='24.06,9.71 26.50,9.36 29.38,8.53 29.21,7.21 25.00,3.00 24.33,3.00 22.82,3.91 21.94,8.29 ' style='stroke-width:0.1;stroke:#3c4b5e;fill:#3c4b5e' />
+        <polygon points='84.33,8.67 84.50,8.70 84.50,2.83 82.00,3.25 80.00,4.25 78.31,5.66 ' style='stroke-width:0.1;stroke:#3a495a;fill:#3a495a' />
+        <polygon points='84.50,8.70 85.20,8.98 86.65,7.88 87.75,3.50 86.00,2.33 84.50,2.83 ' style='stroke-width:0.1;stroke:#384758;fill:#384758' />
+        <polygon points='91.50,9.50 93.17,9.50 94.06,5.50 93.89,5.21 91.50,3.50 87.75,3.50 86.65,7.88 ' style='stroke-width:0.1;stroke:#364451;fill:#364451' />
+        <polygon points='37.00,7.00 40.17,10.17 42.30,10.70 44.17,8.83 45.21,7.00 43.09,4.52 40.00,3.75 38.78,4.06 37.15,4.99 36.62,6.23 ' style='stroke-width:0.1;stroke:#bfc8db;fill:#bfc8db' />
+        <polygon points='62.50,10.75 68.00,9.38 68.00,4.56 67.30,4.30 61.00,8.50 ' style='stroke-width:0.1;stroke:#758294;fill:#758294' />
+        <polygon points='68.00,9.38 68.60,10.12 74.67,11.33 75.56,11.11 76.58,8.54 77.04,6.04 76.17,5.17 69.09,4.16 68.00,4.56 ' style='stroke-width:0.1;stroke:#acb5c8;fill:#acb5c8' />
+        <polygon points='52.90,13.10 55.00,11.00 55.00,4.06 53.00,3.17 52.50,3.50 50.90,5.10 ' style='stroke-width:0.1;stroke:#cfd8eb;fill:#cfd8eb' />
+        <polygon points='55.00,11.00 59.32,6.68 58.23,4.77 55.00,4.06 ' style='stroke-width:0.1;stroke:#d2dbee;fill:#d2dbee' />
+        <polygon points='93.42,10.27 96.23,12.61 100.00,11.10 100.00,5.50 94.06,5.50 93.17,9.50 ' style='stroke-width:0.1;stroke:#303c46;fill:#303c46' />
+        <polygon points='13.92,15.76 15.58,16.45 16.59,15.82 20.23,8.54 17.50,6.90 12.01,9.09 11.83,9.50 ' style='stroke-width:0.1;stroke:#515f76;fill:#515f76' />
+        <polygon points='32.50,14.50 34.26,15.87 37.00,11.75 37.00,7.00 36.62,6.23 30.89,9.67 ' style='stroke-width:0.1;stroke:#d1dcee;fill:#d1dcee' />
+        <polygon points='37.00,11.75 40.17,10.17 37.00,7.00 ' style='stroke-width:0.1;stroke:#aab4c9;fill:#aab4c9' />
+        <polygon points='50.20,13.54 52.88,13.16 52.90,13.10 50.90,5.10 45.83,7.00 ' style='stroke-width:0.1;stroke:#cfd8eb;fill:#cfd8eb' />
+        <polygon points='58.00,11.00 60.68,8.32 59.32,6.68 55.00,11.00 ' style='stroke-width:0.1;stroke:#afbacc;fill:#afbacc' />
+        <polygon points='81.83,11.17 84.33,8.67 78.31,5.66 77.04,6.04 76.58,8.54 ' style='stroke-width:0.1;stroke:#47596b;fill:#47596b' />
+        <polygon points='85.86,12.32 91.50,9.50 86.65,7.88 85.20,8.98 ' style='stroke-width:0.1;stroke:#384655;fill:#384655' />
+        <polygon points='83.57,14.64 85.77,12.88 85.86,12.32 85.20,8.98 84.50,8.70 84.33,8.67 81.83,11.17 ' style='stroke-width:0.1;stroke:#3c4e60;fill:#3c4e60' />
+        <polygon points='1.50,13.50 1.50,6.08 0.50,6.00 0.00,6.00 0.00,13.50 ' style='stroke-width:0.1;stroke:#384655;fill:#384655' />
+        <polygon points='1.50,13.50 2.67,14.67 5.17,14.17 6.10,9.50 1.92,6.01 1.50,6.08 ' style='stroke-width:0.1;stroke:#384655;fill:#384655' />
+        <polygon points='23.05,14.74 24.06,9.71 21.94,8.29 20.23,8.54 16.59,15.82 ' style='stroke-width:0.1;stroke:#959eb1;fill:#959eb1' />
+        <polygon points='35.05,16.99 40.96,16.34 41.41,16.06 42.30,10.70 40.17,10.17 37.00,11.75 34.26,15.87 ' style='stroke-width:0.1;stroke:#71788c;fill:#71788c' />
+        <polygon points='47.32,15.14 48.05,15.26 50.20,13.54 45.83,7.00 45.21,7.00 44.17,8.83 ' style='stroke-width:0.1;stroke:#738295;fill:#738295' />
+        <polygon points='53.50,13.90 58.00,14.80 58.00,11.00 55.00,11.00 52.90,13.10 52.88,13.16 ' style='stroke-width:0.1;stroke:#7a879d;fill:#7a879d' />
+        <polygon points='58.00,14.80 59.91,15.95 59.94,15.94 62.50,12.75 62.50,10.75 61.00,8.50 60.68,8.32 58.00,11.00 ' style='stroke-width:0.1;stroke:#570200;fill:#570200' />
+        <polygon points='62.50,12.75 66.38,14.69 68.10,12.10 68.60,10.12 68.00,9.38 62.50,10.75 ' style='stroke-width:0.1;stroke:#363b42;fill:#363b42' />
+        <polygon points='77.33,14.67 78.87,15.76 82.03,16.95 83.57,14.64 81.83,11.17 76.58,8.54 75.56,11.11 ' style='stroke-width:0.1;stroke:#46576d;fill:#46576d' />
+        <polygon points='87.00,13.50 91.00,13.50 93.42,10.27 93.17,9.50 91.50,9.50 85.86,12.32 85.77,12.88 ' style='stroke-width:0.1;stroke:#374655;fill:#374655' />
+        <polygon points='6.90,15.90 11.77,16.71 13.92,15.76 11.83,9.50 6.10,9.50 5.17,14.17 ' style='stroke-width:0.1;stroke:#3f4e61;fill:#3f4e61' />
+        <polygon points='25.39,16.61 25.95,16.77 26.50,16.50 26.50,9.36 24.06,9.71 23.05,14.74 ' style='stroke-width:0.1;stroke:#6e7d90;fill:#6e7d90' />
+        <polygon points='26.50,16.50 32.50,14.50 30.89,9.67 29.38,8.53 26.50,9.36 ' style='stroke-width:0.1;stroke:#7c899b;fill:#7c899b' />
+        <polygon points='42.17,16.17 47.32,15.14 44.17,8.83 42.30,10.70 41.41,16.06 ' style='stroke-width:0.1;stroke:#3a445b;fill:#3a445b' />
+        <polygon points='71.00,15.00 74.67,11.33 68.60,10.12 68.10,12.10 ' style='stroke-width:0.1;stroke:#540200;fill:#540200' />
+        <polygon points='66.83,15.83 68.50,17.50 70.00,17.00 71.00,15.00 68.10,12.10 66.38,14.69 ' style='stroke-width:0.1;stroke:#748396;fill:#748396' />
+        <polygon points='96.67,15.67 97.50,16.50 99.00,17.00 100.00,17.00 100.00,11.10 96.23,12.61 ' style='stroke-width:0.1;stroke:#303c46;fill:#303c46' />
+        <polygon points='1.50,17.00 2.67,14.67 1.50,13.50 0.00,13.50 0.00,17.00 ' style='stroke-width:0.1;stroke:#364451;fill:#364451' />
+        <polygon points='90.14,19.79 91.00,18.50 91.00,13.50 87.00,13.50 ' style='stroke-width:0.1;stroke:#3b4a5d;fill:#3b4a5d' />
+        <polygon points='91.00,18.50 96.67,15.67 96.23,12.61 93.42,10.27 91.00,13.50 ' style='stroke-width:0.1;stroke:#374655;fill:#374655' />
+        <polygon points='62.17,18.17 66.83,15.83 66.38,14.69 62.50,12.75 59.94,15.94 ' style='stroke-width:0.1;stroke:#253747;fill:#253747' />
+        <polygon points='73.33,18.67 77.33,14.67 75.56,11.11 74.67,11.33 71.00,15.00 70.00,17.00 ' style='stroke-width:0.1;stroke:#8f98ab;fill:#8f98ab' />
+        <polygon points='82.94,18.99 90.00,20.00 90.10,19.90 90.14,19.79 87.00,13.50 85.77,12.88 83.57,14.64 82.03,16.95 ' style='stroke-width:0.1;stroke:#3c4b5e;fill:#3c4b5e' />
+        <polygon points='2.57,19.14 5.36,18.21 6.90,15.90 5.17,14.17 2.67,14.67 1.50,17.00 ' style='stroke-width:0.1;stroke:#34424f;fill:#34424f' />
+        <polygon points='48.83,19.17 52.00,19.80 53.50,18.90 53.50,13.90 52.88,13.16 50.20,13.54 48.05,15.26 ' style='stroke-width:0.1;stroke:#a3adc2;fill:#a3adc2' />
+        <polygon points='53.50,18.90 54.32,19.23 58.50,17.83 59.91,15.95 58.00,14.80 53.50,13.90 ' style='stroke-width:0.1;stroke:#6a798c;fill:#6a798c' />
+        <polygon points='17.25,20.63 20.00,22.00 25.39,16.61 23.05,14.74 16.59,15.82 15.58,16.45 ' style='stroke-width:0.1;stroke:#44556b;fill:#44556b' />
+        <polygon points='47.00,21.00 48.83,19.17 48.05,15.26 47.32,15.14 42.17,16.17 ' style='stroke-width:0.1;stroke:#3b4958;fill:#3b4958' />
+        <polygon points='62.42,18.81 67.50,20.50 68.50,17.50 66.83,15.83 62.17,18.17 ' style='stroke-width:0.1;stroke:#5c6e80;fill:#5c6e80' />
+        <polygon points='2.40,20.00 2.57,19.14 1.50,17.00 0.00,17.00 0.00,20.00 ' style='stroke-width:0.1;stroke:#34424f;fill:#34424f' />
+        <polygon points='7.86,23.23 11.77,16.71 6.90,15.90 5.36,18.21 ' style='stroke-width:0.1;stroke:#364451;fill:#364451' />
+        <polygon points='26.21,18.07 28.10,20.90 30.06,21.39 31.50,21.10 34.78,18.48 35.05,16.99 34.26,15.87 32.50,14.50 26.50,16.50 25.95,16.77 ' style='stroke-width:0.1;stroke:#a0a9bc;fill:#a0a9bc' />
+        <polygon points='73.57,19.86 75.50,20.50 76.83,19.83 78.87,15.76 77.33,14.67 73.33,18.67 ' style='stroke-width:0.1;stroke:#c1cadd;fill:#c1cadd' />
+        <polygon points='95.88,21.35 97.50,16.50 96.67,15.67 91.00,18.50 90.14,19.79 90.10,19.90 ' style='stroke-width:0.1;stroke:#3b4a5d;fill:#3b4a5d' />
+        <polygon points='2.75,21.75 6.81,25.81 7.21,25.50 7.86,23.23 5.36,18.21 2.57,19.14 2.40,20.00 ' style='stroke-width:0.1;stroke:#34424f;fill:#34424f' />
+        <polygon points='20.83,22.83 24.83,20.83 26.21,18.07 25.95,16.77 25.39,16.61 20.00,22.00 ' style='stroke-width:0.1;stroke:#58677a;fill:#58677a' />
+        <polygon points='42.73,23.41 46.73,21.81 47.00,21.00 42.17,16.17 41.41,16.06 40.96,16.34 ' style='stroke-width:0.1;stroke:#384655;fill:#384655' />
+        <polygon points='57.44,23.91 58.50,24.21 58.50,17.83 54.32,19.23 ' style='stroke-width:0.1;stroke:#748396;fill:#748396' />
+        <polygon points='58.50,24.21 59.00,24.57 61.22,23.62 62.42,18.81 62.17,18.17 59.94,15.94 59.91,15.95 58.50,17.83 ' style='stroke-width:0.1;stroke:#333737;fill:#333737' />
+        <polygon points='68.11,24.77 68.31,25.00 71.00,25.00 73.57,19.86 73.33,18.67 70.00,17.00 68.50,17.50 67.50,20.50 ' style='stroke-width:0.1;stroke:#d0d9ec;fill:#d0d9ec' />
+        <polygon points='80.67,23.67 81.76,22.13 82.94,18.99 82.03,16.95 78.87,15.76 76.83,19.83 ' style='stroke-width:0.1;stroke:#919bb0;fill:#919bb0' />
+        <polygon points='98.25,24.50 98.44,24.63 99.00,24.50 99.00,17.00 97.50,16.50 95.88,21.35 ' style='stroke-width:0.1;stroke:#323e48;fill:#323e48' />
+        <polygon points='99.00,24.50 100.00,24.50 100.00,17.00 99.00,17.00 ' style='stroke-width:0.1;stroke:#323e48;fill:#323e48' />
+        <polygon points='2.75,21.75 2.40,20.00 0.00,20.00 0.00,22.67 ' style='stroke-width:0.1;stroke:#34424f;fill:#34424f' />
+        <polygon points='26.50,22.50 28.10,20.90 26.21,18.07 24.83,20.83 ' style='stroke-width:0.1;stroke:#7b889c;fill:#7b889c' />
+        <polygon points='35.00,19.00 38.83,22.83 42.50,23.75 42.73,23.41 40.96,16.34 35.05,16.99 34.78,18.48 ' style='stroke-width:0.1;stroke:#485164;fill:#485164' />
+        <polygon points='68.11,24.77 67.50,20.50 62.42,18.81 61.22,23.62 ' style='stroke-width:0.1;stroke:#748195;fill:#748195' />
+        <polygon points='78.34,26.18 79.24,26.27 79.38,26.25 80.67,23.67 76.83,19.83 75.50,20.50 ' style='stroke-width:0.1;stroke:#afb9ce;fill:#afb9ce' />
+        <polygon points='10.50,25.50 15.27,23.59 17.25,20.63 15.58,16.45 13.92,15.76 11.77,16.71 7.86,23.23 7.21,25.50 ' style='stroke-width:0.1;stroke:#384655;fill:#384655' />
+        <polygon points='22.57,25.87 25.81,24.58 26.50,22.50 24.83,20.83 20.83,22.83 ' style='stroke-width:0.1;stroke:#707d91;fill:#707d91' />
+        <polygon points='48.98,24.80 52.00,24.20 52.00,19.80 48.83,19.17 47.00,21.00 46.73,21.81 ' style='stroke-width:0.1;stroke:#7a879b;fill:#7a879b' />
+        <polygon points='52.00,24.20 53.00,24.80 57.44,23.91 54.32,19.23 53.50,18.90 52.00,19.80 ' style='stroke-width:0.1;stroke:#485361;fill:#485361' />
+        <polygon points='74.27,26.64 78.34,26.18 75.50,20.50 73.57,19.86 71.00,25.00 ' style='stroke-width:0.1;stroke:#dce5f8;fill:#dce5f8' />
+        <polygon points='28.17,25.17 30.06,21.39 28.10,20.90 26.50,22.50 25.81,24.58 ' style='stroke-width:0.1;stroke:#bdc6d9;fill:#bdc6d9' />
+        <polygon points='89.45,25.97 90.00,24.50 90.00,20.00 82.94,18.99 81.76,22.13 ' style='stroke-width:0.1;stroke:#738094;fill:#738094' />
+        <polygon points='90.00,24.50 98.25,24.50 95.88,21.35 90.10,19.90 90.00,20.00 ' style='stroke-width:0.1;stroke:#384756;fill:#384756' />
+        <polygon points='5.66,27.29 6.81,25.81 2.75,21.75 0.00,22.67 0.00,25.88 ' style='stroke-width:0.1;stroke:#34404c;fill:#34404c' />
+        <polygon points='31.50,28.50 31.50,21.10 30.06,21.39 28.17,25.17 ' style='stroke-width:0.1;stroke:#e6ebff;fill:#e6ebff' />
+        <polygon points='31.50,28.50 32.22,29.94 33.59,30.44 35.00,29.60 35.00,19.00 34.78,18.48 31.50,21.10 ' style='stroke-width:0.1;stroke:#d9def2;fill:#d9def2' />
+        <polygon points='35.00,29.60 35.50,29.50 38.83,22.83 35.00,19.00 ' style='stroke-width:0.1;stroke:#96a0b7;fill:#96a0b7' />
+        <polygon points='36.50,29.50 42.50,27.79 42.50,23.75 38.83,22.83 35.50,29.50 ' style='stroke-width:0.1;stroke:#6f7991;fill:#6f7991' />
+        <polygon points='42.50,27.79 44.14,28.95 47.81,27.73 48.98,24.80 46.73,21.81 42.73,23.41 42.50,23.75 ' style='stroke-width:0.1;stroke:#2a2b31;fill:#2a2b31' />
+        <polygon points='81.50,28.07 86.55,28.79 89.40,26.42 89.45,25.97 81.76,22.13 80.67,23.67 79.38,26.25 ' style='stroke-width:0.1;stroke:#738094;fill:#738094' />
+        <polygon points='16.91,30.16 19.43,31.10 22.16,29.58 22.57,25.87 20.83,22.83 20.00,22.00 17.25,20.63 15.27,23.59 ' style='stroke-width:0.1;stroke:#3c4e60;fill:#3c4e60' />
+        <polygon points='93.20,29.46 95.83,29.83 98.44,24.63 98.25,24.50 90.00,24.50 89.45,25.97 89.40,26.42 ' style='stroke-width:0.1;stroke:#364451;fill:#364451' />
+        <polygon points='14.50,29.50 15.74,30.32 16.91,30.16 15.27,23.59 10.50,25.50 ' style='stroke-width:0.1;stroke:#384758;fill:#384758' />
+        <polygon points='24.00,30.50 30.00,30.50 32.22,29.94 31.50,28.50 28.17,25.17 25.81,24.58 22.57,25.87 22.16,29.58 ' style='stroke-width:0.1;stroke:#9ca9bb;fill:#9ca9bb' />
+        <polygon points='50.36,29.64 53.00,27.00 53.00,24.80 52.00,24.20 48.98,24.80 47.81,27.73 ' style='stroke-width:0.1;stroke:#25221f;fill:#25221f' />
+        <polygon points='53.00,27.00 55.33,29.33 59.00,27.50 59.00,24.57 58.50,24.21 57.44,23.91 53.00,24.80 ' style='stroke-width:0.1;stroke:#2f3a42;fill:#2f3a42' />
+        <polygon points='59.00,27.50 61.20,30.80 63.85,31.46 65.98,31.22 68.31,25.00 68.11,24.77 61.22,23.62 59.00,24.57 ' style='stroke-width:0.1;stroke:#3b4d5d;fill:#3b4d5d' />
+        <polygon points='4.85,30.00 5.66,27.29 0.00,25.88 0.00,30.00 ' style='stroke-width:0.1;stroke:#323e48;fill:#323e48' />
+        <polygon points='10.50,29.50 14.50,29.50 10.50,25.50 7.21,25.50 6.81,25.81 ' style='stroke-width:0.1;stroke:#394756;fill:#394756' />
+        <polygon points='51.10,31.50 51.66,32.44 54.31,31.38 55.33,29.33 53.00,27.00 50.36,29.64 ' style='stroke-width:0.1;stroke:#8c0a00;fill:#8c0a00' />
+        <polygon points='95.93,30.00 100.00,30.00 100.00,24.50 99.00,24.50 98.44,24.63 95.83,29.83 ' style='stroke-width:0.1;stroke:#34424f;fill:#34424f' />
+        <polygon points='12.23,32.95 15.74,30.32 14.50,29.50 10.50,29.50 ' style='stroke-width:0.1;stroke:#384758;fill:#384758' />
+        <polygon points='67.88,33.44 68.00,33.50 70.00,34.00 73.18,32.09 74.27,26.64 71.00,25.00 68.31,25.00 65.98,31.22 ' style='stroke-width:0.1;stroke:#758296;fill:#758296' />
+        <polygon points='5.13,32.81 8.57,35.26 12.13,33.13 12.23,32.95 10.50,29.50 6.81,25.81 5.66,27.29 4.85,30.00 ' style='stroke-width:0.1;stroke:#384758;fill:#384758' />
+        <polygon points='44.50,31.50 51.10,31.50 50.36,29.64 47.81,27.73 44.14,28.95 ' style='stroke-width:0.1;stroke:#580c0a;fill:#580c0a' />
+        <polygon points='56.95,33.14 59.50,32.50 61.20,30.80 59.00,27.50 55.33,29.33 54.31,31.38 ' style='stroke-width:0.1;stroke:#a30000;fill:#a30000' />
+        <polygon points='76.71,33.86 79.24,26.27 78.34,26.18 74.27,26.64 73.18,32.09 ' style='stroke-width:0.1;stroke:#7a0904;fill:#7a0904' />
+        <polygon points='86.93,31.07 89.68,34.74 93.20,29.46 89.40,26.42 86.55,28.79 ' style='stroke-width:0.1;stroke:#3d4c5f;fill:#3d4c5f' />
+        <polygon points='96.95,33.58 100.00,34.08 100.00,30.00 95.93,30.00 ' style='stroke-width:0.1;stroke:#394859;fill:#394859' />
+        <polygon points='4.30,33.50 5.13,32.81 4.85,30.00 0.00,30.00 0.00,33.50 ' style='stroke-width:0.1;stroke:#323e48;fill:#323e48' />
+        <polygon points='43.00,36.00 43.50,36.17 44.50,35.83 44.50,31.50 44.14,28.95 42.50,27.79 36.50,29.50 ' style='stroke-width:0.1;stroke:#44506a;fill:#44506a' />
+        <polygon points='44.50,35.83 47.71,37.26 47.93,37.21 51.61,32.61 51.66,32.44 51.10,31.50 44.50,31.50 ' style='stroke-width:0.1;stroke:#990a08;fill:#990a08' />
+        <polygon points='76.82,34.03 77.32,34.23 81.50,32.83 81.50,28.07 79.38,26.25 79.24,26.27 76.71,33.86 ' style='stroke-width:0.1;stroke:#3e3e48;fill:#3e3e48' />
+        <polygon points='81.50,32.83 83.07,34.93 86.93,31.07 86.55,28.79 81.50,28.07 ' style='stroke-width:0.1;stroke:#a2adbf;fill:#a2adbf' />
+        <polygon points='89.79,35.55 95.05,36.42 96.95,33.58 95.93,30.00 95.83,29.83 93.20,29.46 89.68,34.74 ' style='stroke-width:0.1;stroke:#3a495a;fill:#3a495a' />
+        <polygon points='14.50,35.50 18.50,35.50 18.93,35.07 19.43,31.10 16.91,30.16 15.74,30.32 12.23,32.95 12.13,33.13 ' style='stroke-width:0.1;stroke:#3d4f61;fill:#3d4f61' />
+        <polygon points='25.38,36.00 27.25,36.00 30.00,30.50 24.00,30.50 ' style='stroke-width:0.1;stroke:#758296;fill:#758296' />
+        <polygon points='34.15,36.00 43.00,36.00 36.50,29.50 35.50,29.50 35.00,29.60 33.59,30.44 ' style='stroke-width:0.1;stroke:#6c798d;fill:#6c798d' />
+        <polygon points='55.75,36.75 56.95,33.14 54.31,31.38 51.66,32.44 51.61,32.61 ' style='stroke-width:0.1;stroke:#970601;fill:#970601' />
+        <polygon points='83.59,38.06 86.29,39.75 89.79,35.55 89.68,34.74 86.93,31.07 83.07,34.93 ' style='stroke-width:0.1;stroke:#8491a5;fill:#8491a5' />
+        <polygon points='1.90,37.50 4.30,33.50 0.00,33.50 0.00,37.50 ' style='stroke-width:0.1;stroke:#303c46;fill:#303c46' />
+        <polygon points='21.00,36.63 24.29,37.45 25.38,36.00 24.00,30.50 22.16,29.58 19.43,31.10 18.93,35.07 ' style='stroke-width:0.1;stroke:#bec5d9;fill:#bec5d9' />
+        <polygon points='29.93,37.79 32.28,38.26 34.12,36.12 34.15,36.00 33.59,30.44 32.22,29.94 30.00,30.50 27.25,36.00 ' style='stroke-width:0.1;stroke:#343941;fill:#343941' />
+        <polygon points='56.10,38.50 59.50,38.50 59.50,32.50 56.95,33.14 55.75,36.75 ' style='stroke-width:0.1;stroke:#a60405;fill:#a60405' />
+        <polygon points='59.50,38.50 61.25,39.25 63.85,31.46 61.20,30.80 59.50,32.50 ' style='stroke-width:0.1;stroke:#920a0a;fill:#920a0a' />
+        <polygon points='73.00,39.00 74.50,37.50 76.82,34.03 76.71,33.86 73.18,32.09 70.00,34.00 ' style='stroke-width:0.1;stroke:#3c4e60;fill:#3c4e60' />
+        <polygon points='79.50,37.50 80.50,38.50 83.59,38.06 83.07,34.93 81.50,32.83 77.32,34.23 ' style='stroke-width:0.1;stroke:#352d2c;fill:#352d2c' />
+        <polygon points='9.00,37.00 10.00,38.00 12.95,38.59 14.50,35.50 12.13,33.13 8.57,35.26 ' style='stroke-width:0.1;stroke:#46576d;fill:#46576d' />
+        <polygon points='53.50,40.00 54.44,39.88 56.10,38.50 55.75,36.75 51.61,32.61 47.93,37.21 ' style='stroke-width:0.1;stroke:#f02f00;fill:#f02f00' />
+        <polygon points='62.90,40.90 67.88,33.44 65.98,31.22 63.85,31.46 61.25,39.25 ' style='stroke-width:0.1;stroke:#241106;fill:#241106' />
+        <polygon points='16.27,41.08 18.50,35.50 14.50,35.50 12.95,38.59 ' style='stroke-width:0.1;stroke:#6e8092;fill:#6e8092' />
+        <polygon points='79.50,37.50 77.32,34.23 76.82,34.03 74.50,37.50 ' style='stroke-width:0.1;stroke:#353d3e;fill:#353d3e' />
+        <polygon points='95.50,38.00 100.00,38.00 100.00,34.08 96.95,33.58 95.05,36.42 ' style='stroke-width:0.1;stroke:#384758;fill:#384758' />
+        <polygon points='2.36,38.64 4.50,41.50 9.00,37.00 8.57,35.26 5.13,32.81 4.30,33.50 1.90,37.50 ' style='stroke-width:0.1;stroke:#8594a7;fill:#8594a7' />
+        <polygon points='24.68,39.38 25.50,40.00 29.93,37.79 27.25,36.00 25.38,36.00 24.29,37.45 ' style='stroke-width:0.1;stroke:#1b3423;fill:#1b3423' />
+        <polygon points='37.00,39.00 40.00,40.00 41.71,39.14 43.50,36.17 43.00,36.00 34.15,36.00 34.12,36.12 ' style='stroke-width:0.1;stroke:#4b5c72;fill:#4b5c72' />
+        <polygon points='63.52,42.29 68.00,40.50 68.00,33.50 67.88,33.44 62.90,40.90 ' style='stroke-width:0.1;stroke:#241b10;fill:#241b10' />
+        <polygon points='68.00,40.50 72.10,40.50 73.00,39.75 73.00,39.00 70.00,34.00 68.00,33.50 ' style='stroke-width:0.1;stroke:#374959;fill:#374959' />
+        <polygon points='73.00,39.75 76.50,41.50 77.38,41.63 80.50,38.50 79.50,37.50 74.50,37.50 73.00,39.00 ' style='stroke-width:0.1;stroke:#35404e;fill:#35404e' />
+        <polygon points='16.82,43.29 21.00,40.50 21.00,36.63 18.93,35.07 18.50,35.50 16.27,41.08 ' style='stroke-width:0.1;stroke:#5f6d84;fill:#5f6d84' />
+        <polygon points='21.00,40.50 23.00,40.50 24.68,39.38 24.29,37.45 21.00,36.63 ' style='stroke-width:0.1;stroke:#a9b3c8;fill:#a9b3c8' />
+        <polygon points='86.71,41.29 89.50,43.38 93.50,42.88 95.29,42.43 95.50,42.00 95.50,38.00 95.05,36.42 89.79,35.55 86.29,39.75 ' style='stroke-width:0.1;stroke:#9aa7bb;fill:#9aa7bb' />
+        <polygon points='95.50,42.00 100.00,40.88 100.00,38.00 95.50,38.00 ' style='stroke-width:0.1;stroke:#384758;fill:#384758' />
+        <polygon points='2.36,38.64 1.90,37.50 0.00,37.50 0.00,41.00 ' style='stroke-width:0.1;stroke:#303b43;fill:#303b43' />
+        <polygon points='27.50,44.00 29.00,44.19 31.66,43.19 32.28,38.26 29.93,37.79 25.50,40.00 ' style='stroke-width:0.1;stroke:#490700;fill:#490700' />
+        <polygon points='4.24,43.87 4.50,43.50 4.50,41.50 2.36,38.64 0.00,41.00 0.00,41.75 ' style='stroke-width:0.1;stroke:#2f3b45;fill:#2f3b45' />
+        <polygon points='4.50,43.50 7.50,43.50 10.00,41.00 10.00,38.00 9.00,37.00 4.50,41.50 ' style='stroke-width:0.1;stroke:#374752;fill:#374752' />
+        <polygon points='10.00,41.00 15.00,46.00 16.51,46.38 16.82,43.29 16.27,41.08 12.95,38.59 10.00,38.00 ' style='stroke-width:0.1;stroke:#4e5d70;fill:#4e5d70' />
+        <polygon points='33.87,44.76 37.00,45.94 37.00,39.00 34.12,36.12 32.28,38.26 31.66,43.19 ' style='stroke-width:0.1;stroke:#2d343a;fill:#2d343a' />
+        <polygon points='37.00,45.94 37.15,46.03 37.94,46.19 40.00,40.00 37.00,39.00 ' style='stroke-width:0.1;stroke:#211f20;fill:#211f20' />
+        <polygon points='43.50,44.50 45.30,44.50 46.79,42.64 46.83,42.50 47.71,37.26 44.50,35.83 43.50,36.17 41.71,39.14 ' style='stroke-width:0.1;stroke:#750900;fill:#750900' />
+        <polygon points='16.71,46.72 18.68,47.08 23.00,46.00 23.00,40.50 21.00,40.50 16.82,43.29 16.51,46.38 ' style='stroke-width:0.1;stroke:#b4bdd0;fill:#b4bdd0' />
+        <polygon points='23.00,46.00 23.50,46.00 27.50,44.00 25.50,40.00 24.68,39.38 23.00,40.50 ' style='stroke-width:0.1;stroke:#c6cfe2;fill:#c6cfe2' />
+        <polygon points='38.32,46.40 39.28,46.28 40.83,45.83 43.50,44.50 41.71,39.14 40.00,40.00 37.94,46.19 ' style='stroke-width:0.1;stroke:#111304;fill:#111304' />
+        <polygon points='52.25,42.50 53.50,40.00 47.93,37.21 47.71,37.26 46.83,42.50 ' style='stroke-width:0.1;stroke:#c97656;fill:#c97656' />
+        <polygon points='56.00,43.00 59.65,46.65 63.42,43.43 63.52,42.29 62.90,40.90 61.25,39.25 59.50,38.50 56.10,38.50 54.44,39.88 ' style='stroke-width:0.1;stroke:#0c0007;fill:#0c0007' />
+        <polygon points='78.23,43.05 81.20,45.28 85.00,43.00 86.71,41.29 86.29,39.75 83.59,38.06 80.50,38.50 77.38,41.63 ' style='stroke-width:0.1;stroke:#a4afc1;fill:#a4afc1' />
+        <polygon points='2.00,48.50 2.58,48.29 4.24,43.87 0.00,41.75 0.00,48.50 ' style='stroke-width:0.1;stroke:#303b43;fill:#303b43' />
+        <polygon points='8.50,44.17 14.00,46.00 15.00,46.00 10.00,41.00 7.50,43.50 ' style='stroke-width:0.1;stroke:#3c4b5e;fill:#3c4b5e' />
+        <polygon points='51.61,45.06 52.25,42.50 46.83,42.50 46.79,42.64 ' style='stroke-width:0.1;stroke:#0a1014;fill:#0a1014' />
+        <polygon points='65.50,45.17 69.50,46.50 70.94,46.29 72.10,40.50 68.00,40.50 63.52,42.29 63.42,43.43 ' style='stroke-width:0.1;stroke:#1f1d1e;fill:#1f1d1e' />
+        <polygon points='96.67,44.50 100.00,44.50 100.00,40.88 95.50,42.00 95.29,42.43 ' style='stroke-width:0.1;stroke:#a4adc0;fill:#a4adc0' />
+        <polygon points='52.00,47.00 56.00,43.00 54.44,39.88 53.50,40.00 52.25,42.50 51.61,45.06 ' style='stroke-width:0.1;stroke:#000000;fill:#000000' />
+        <polygon points='73.26,47.84 73.36,47.79 76.50,41.50 73.00,39.75 72.10,40.50 70.94,46.29 ' style='stroke-width:0.1;stroke:#8a97ab;fill:#8a97ab' />
+        <polygon points='47.19,47.65 48.71,48.87 52.00,47.93 52.00,47.00 51.61,45.06 46.79,42.64 45.30,44.50 ' style='stroke-width:0.1;stroke:#0a0007;fill:#0a0007' />
+        <polygon points='52.00,47.93 52.89,48.44 59.34,47.36 59.65,46.65 56.00,43.00 52.00,47.00 ' style='stroke-width:0.1;stroke:#000000;fill:#000000' />
+        <polygon points='76.21,47.07 78.23,43.05 77.38,41.63 76.50,41.50 73.36,47.79 ' style='stroke-width:0.1;stroke:#a3adc2;fill:#a3adc2' />
+        <polygon points='4.17,49.08 8.10,48.10 8.50,47.83 8.50,44.17 7.50,43.50 4.50,43.50 4.24,43.87 2.58,48.29 ' style='stroke-width:0.1;stroke:#313f4c;fill:#313f4c' />
+        <polygon points='8.50,47.83 14.00,46.00 8.50,44.17 ' style='stroke-width:0.1;stroke:#34424f;fill:#34424f' />
+        <polygon points='80.50,48.50 80.75,48.00 81.20,45.28 78.23,43.05 76.21,47.07 ' style='stroke-width:0.1;stroke:#b9c2d7;fill:#b9c2d7' />
+        <polygon points='97.33,48.50 100.00,48.50 100.00,44.50 96.67,44.50 ' style='stroke-width:0.1;stroke:#374657;fill:#374657' />
+        <polygon points='85.00,48.00 85.00,43.00 81.20,45.28 80.75,48.00 ' style='stroke-width:0.1;stroke:#9fa9be;fill:#9fa9be' />
+        <polygon points='85.00,48.00 85.50,48.50 89.50,46.50 89.50,43.38 86.71,41.29 85.00,43.00 ' style='stroke-width:0.1;stroke:#d4ddf0;fill:#d4ddf0' />
+        <polygon points='89.50,46.50 89.83,47.50 93.50,47.50 93.50,42.88 89.50,43.38 ' style='stroke-width:0.1;stroke:#3c4e60;fill:#3c4e60' />
+        <polygon points='93.50,47.50 96.20,50.20 97.33,48.50 96.67,44.50 95.29,42.43 93.50,42.88 ' style='stroke-width:0.1;stroke:#3a495a;fill:#3a495a' />
+        <polygon points='27.30,51.70 27.71,51.58 29.00,49.00 29.00,44.19 27.50,44.00 23.50,46.00 ' style='stroke-width:0.1;stroke:#dee7fa;fill:#dee7fa' />
+        <polygon points='29.00,49.00 31.75,49.00 33.87,44.76 31.66,43.19 29.00,44.19 ' style='stroke-width:0.1;stroke:#8e9baf;fill:#8e9baf' />
+        <polygon points='44.17,49.17 47.19,47.65 45.30,44.50 43.50,44.50 40.83,45.83 ' style='stroke-width:0.1;stroke:#d91012;fill:#d91012' />
+        <polygon points='90.42,51.05 93.58,51.95 96.20,50.20 93.50,47.50 89.83,47.50 ' style='stroke-width:0.1;stroke:#7e8da0;fill:#7e8da0' />
+        <polygon points='12.17,52.17 14.84,51.40 16.71,46.72 16.51,46.38 15.00,46.00 14.00,46.00 8.50,47.83 8.10,48.10 ' style='stroke-width:0.1;stroke:#364451;fill:#364451' />
+        <polygon points='32.50,50.50 33.50,50.50 34.36,50.21 37.15,46.03 37.00,45.94 33.87,44.76 31.75,49.00 ' style='stroke-width:0.1;stroke:#8b98ac;fill:#8b98ac' />
+        <polygon points='43.50,50.50 44.17,49.17 40.83,45.83 39.28,46.28 ' style='stroke-width:0.1;stroke:#700904;fill:#700904' />
+        <polygon points='59.82,49.27 64.86,50.95 65.50,50.00 65.50,45.17 63.42,43.43 59.65,46.65 59.34,47.36 ' style='stroke-width:0.1;stroke:#f90900;fill:#f90900' />
+        <polygon points='65.50,50.00 68.33,50.00 69.50,46.50 65.50,45.17 ' style='stroke-width:0.1;stroke:#350f00;fill:#350f00' />
+        <polygon points='73.65,50.56 78.92,52.67 80.50,49.50 80.50,48.50 76.21,47.07 73.36,47.79 73.26,47.84 ' style='stroke-width:0.1;stroke:#9aa4b9;fill:#9aa4b9' />
+        <polygon points='80.50,49.50 85.50,51.17 85.50,48.50 85.00,48.00 80.75,48.00 80.50,48.50 ' style='stroke-width:0.1;stroke:#9aa4b9;fill:#9aa4b9' />
+        <polygon points='85.50,51.17 87.08,53.28 90.42,51.05 89.83,47.50 89.50,46.50 85.50,48.50 ' style='stroke-width:0.1;stroke:#647185;fill:#647185' />
+        <polygon points='6.35,51.81 9.32,53.59 12.17,52.17 8.10,48.10 4.17,49.08 ' style='stroke-width:0.1;stroke:#34424f;fill:#34424f' />
+        <polygon points='23.93,54.07 25.07,53.93 27.30,51.70 23.50,46.00 23.00,46.00 18.68,47.08 ' style='stroke-width:0.1;stroke:#b3bccf;fill:#b3bccf' />
+        <polygon points='29.32,52.23 31.50,51.50 32.50,50.50 31.75,49.00 29.00,49.00 27.71,51.58 ' style='stroke-width:0.1;stroke:#808d9f;fill:#808d9f' />
+        <polygon points='39.92,56.00 41.04,56.61 43.50,56.00 43.50,50.50 39.28,46.28 38.32,46.40 ' style='stroke-width:0.1;stroke:#3d0d00;fill:#3d0d00' />
+        <polygon points='43.50,56.00 45.33,56.00 46.67,55.00 48.71,48.87 47.19,47.65 44.17,49.17 43.50,50.50 ' style='stroke-width:0.1;stroke:#f87b1f;fill:#f87b1f' />
+        <polygon points='68.67,51.00 73.30,51.00 73.65,50.56 73.26,47.84 70.94,46.29 69.50,46.50 68.33,50.00 ' style='stroke-width:0.1;stroke:#36424e;fill:#36424e' />
+        <polygon points='37.25,56.00 39.92,56.00 38.32,46.40 37.94,46.19 37.15,46.03 34.36,50.21 ' style='stroke-width:0.1;stroke:#657487;fill:#657487' />
+        <polygon points='53.68,52.38 57.07,54.93 58.07,54.80 59.75,49.75 59.82,49.27 59.34,47.36 52.89,48.44 ' style='stroke-width:0.1;stroke:#000000;fill:#000000' />
+        <polygon points='65.81,54.74 67.50,54.50 68.67,51.00 68.33,50.00 65.50,50.00 64.86,50.95 ' style='stroke-width:0.1;stroke:#5c0600;fill:#5c0600' />
+        <polygon points='99.50,53.50 100.00,53.50 100.00,48.50 97.33,48.50 96.20,50.20 ' style='stroke-width:0.1;stroke:#34424f;fill:#34424f' />
+        <polygon points='33.50,53.50 33.50,50.50 32.50,50.50 31.50,51.50 ' style='stroke-width:0.1;stroke:#9fa9be;fill:#9fa9be' />
+        <polygon points='33.50,53.50 35.00,56.50 37.25,56.00 34.36,50.21 33.50,50.50 ' style='stroke-width:0.1;stroke:#919eb2;fill:#919eb2' />
+        <polygon points='49.75,55.00 53.68,52.38 52.89,48.44 52.00,47.93 48.71,48.87 46.67,55.00 ' style='stroke-width:0.1;stroke:#5e4a47;fill:#5e4a47' />
+        <polygon points='65.23,55.23 65.81,54.74 64.86,50.95 59.82,49.27 59.75,49.75 ' style='stroke-width:0.1;stroke:#f8260c;fill:#f8260c' />
+        <polygon points='71.25,55.75 71.39,55.77 73.30,51.00 68.67,51.00 67.50,54.50 ' style='stroke-width:0.1;stroke:#354853;fill:#354853' />
+        <polygon points='79.08,53.33 85.33,55.83 86.31,55.35 87.08,53.28 85.50,51.17 80.50,49.50 78.92,52.67 ' style='stroke-width:0.1;stroke:#d1daed;fill:#d1daed' />
+        <polygon points='15.91,54.26 21.34,56.44 22.00,56.00 23.93,54.07 18.68,47.08 16.71,46.72 14.84,51.40 ' style='stroke-width:0.1;stroke:#606e85;fill:#606e85' />
+        <polygon points='32.88,57.56 35.00,56.50 33.50,53.50 31.50,51.50 29.32,52.23 ' style='stroke-width:0.1;stroke:#a6b0c5;fill:#a6b0c5' />
+        <polygon points='60.70,57.00 63.75,57.00 65.23,55.23 59.75,49.75 58.07,54.80 ' style='stroke-width:0.1;stroke:#f62c08;fill:#f62c08' />
+        <polygon points='2.00,55.50 2.00,48.50 0.00,48.50 0.00,55.50 ' style='stroke-width:0.1;stroke:#2d383e;fill:#2d383e' />
+        <polygon points='2.00,55.50 3.00,56.83 4.25,56.00 6.35,51.81 4.17,49.08 2.58,48.29 2.00,48.50 ' style='stroke-width:0.1;stroke:#364453;fill:#364453' />
+        <polygon points='71.64,56.07 75.83,58.17 77.00,57.50 79.08,53.33 78.92,52.67 73.65,50.56 73.30,51.00 71.39,55.77 ' style='stroke-width:0.1;stroke:#748195;fill:#748195' />
+        <polygon points='94.00,54.50 98.83,54.50 99.50,53.50 96.20,50.20 93.58,51.95 ' style='stroke-width:0.1;stroke:#384655;fill:#384655' />
+        <polygon points='8.92,56.00 9.32,53.59 6.35,51.81 4.25,56.00 ' style='stroke-width:0.1;stroke:#6e7b91;fill:#6e7b91' />
+        <polygon points='29.36,59.64 30.00,59.50 32.13,58.44 32.88,57.56 29.32,52.23 27.71,51.58 27.30,51.70 25.07,53.93 ' style='stroke-width:0.1;stroke:#c7d0e3;fill:#c7d0e3' />
+        <polygon points='54.10,57.90 57.07,54.93 53.68,52.38 49.75,55.00 ' style='stroke-width:0.1;stroke:#000000;fill:#000000' />
+        <polygon points='91.50,59.50 94.00,59.50 94.00,54.50 93.58,51.95 90.42,51.05 87.08,53.28 86.31,55.35 ' style='stroke-width:0.1;stroke:#667387;fill:#667387' />
+        <polygon points='94.00,59.50 94.64,59.93 97.50,58.50 98.83,54.50 94.00,54.50 ' style='stroke-width:0.1;stroke:#374657;fill:#374657' />
+        <polygon points='9.55,59.77 12.41,61.21 13.10,60.90 14.00,60.00 15.91,54.26 14.84,51.40 12.17,52.17 9.32,53.59 8.92,56.00 ' style='stroke-width:0.1;stroke:#3a495a;fill:#3a495a' />
+        <polygon points='100.00,58.50 100.00,53.50 99.50,53.50 98.83,54.50 97.50,58.50 ' style='stroke-width:0.1;stroke:#364453;fill:#364453' />
+        <polygon points='3.00,59.50 3.00,56.83 2.00,55.50 0.00,55.50 0.00,59.50 ' style='stroke-width:0.1;stroke:#2d3840;fill:#2d3840' />
+        <polygon points='3.00,59.50 4.44,61.23 9.55,59.77 8.92,56.00 4.25,56.00 3.00,56.83 ' style='stroke-width:0.1;stroke:#3a495a;fill:#3a495a' />
+        <polygon points='83.00,60.50 85.33,55.83 79.08,53.33 77.00,57.50 ' style='stroke-width:0.1;stroke:#485665;fill:#485665' />
+        <polygon points='19.00,60.00 21.10,57.90 21.34,56.44 15.91,54.26 14.00,60.00 ' style='stroke-width:0.1;stroke:#687589;fill:#687589' />
+        <polygon points='27.50,61.50 29.36,59.64 25.07,53.93 23.93,54.07 22.00,56.00 ' style='stroke-width:0.1;stroke:#d3dcef;fill:#d3dcef' />
+        <polygon points='49.95,62.92 51.29,63.52 53.19,63.35 54.10,57.90 49.75,55.00 46.67,55.00 45.33,56.00 ' style='stroke-width:0.1;stroke:#682e30;fill:#682e30' />
+        <polygon points='65.83,61.17 71.25,55.75 67.50,54.50 65.81,54.74 65.23,55.23 63.75,57.00 ' style='stroke-width:0.1;stroke:#241816;fill:#241816' />
+        <polygon points='25.43,64.40 27.50,61.50 22.00,56.00 21.34,56.44 21.10,57.90 ' style='stroke-width:0.1;stroke:#b9c2d5;fill:#b9c2d5' />
+        <polygon points='54.88,64.19 58.11,63.48 60.70,57.00 58.07,54.80 57.07,54.93 54.10,57.90 53.19,63.35 ' style='stroke-width:0.1;stroke:#e9d35a;fill:#e9d35a' />
+        <polygon points='66.25,62.63 68.67,63.83 69.15,63.56 71.64,56.07 71.39,55.77 71.25,55.75 65.83,61.17 ' style='stroke-width:0.1;stroke:#2f3f4a;fill:#2f3f4a' />
+        <polygon points='74.00,62.75 74.75,62.38 75.36,61.45 75.83,58.17 71.64,56.07 69.15,63.56 ' style='stroke-width:0.1;stroke:#48566d;fill:#48566d' />
+        <polygon points='83.41,63.80 86.25,64.75 91.50,59.50 86.31,55.35 85.33,55.83 83.00,60.50 ' style='stroke-width:0.1;stroke:#717e92;fill:#717e92' />
+        <polygon points='21.00,66.00 24.95,66.00 25.43,64.40 21.10,57.90 19.00,60.00 ' style='stroke-width:0.1;stroke:#617083;fill:#617083' />
+        <polygon points='35.17,63.00 38.75,63.00 40.79,58.93 41.04,56.61 39.92,56.00 37.25,56.00 35.00,56.50 32.88,57.56 32.13,58.44 ' style='stroke-width:0.1;stroke:#5f6d84;fill:#5f6d84' />
+        <polygon points='60.00,64.29 62.28,64.61 66.25,62.63 65.83,61.17 63.75,57.00 60.70,57.00 58.11,63.48 ' style='stroke-width:0.1;stroke:#6b0b01;fill:#6b0b01' />
+        <polygon points='83.07,64.02 83.41,63.80 83.00,60.50 77.00,57.50 75.83,58.17 75.36,61.45 ' style='stroke-width:0.1;stroke:#a60604;fill:#a60604' />
+        <polygon points='95.50,62.50 100.00,62.50 100.00,58.50 97.50,58.50 94.64,59.93 ' style='stroke-width:0.1;stroke:#576679;fill:#576679' />
+        <polygon points='4.13,62.50 4.44,61.23 3.00,59.50 0.00,59.50 0.00,62.50 ' style='stroke-width:0.1;stroke:#303b43;fill:#303b43' />
+        <polygon points='20.83,66.06 21.00,66.00 19.00,60.00 14.00,60.00 13.10,60.90 ' style='stroke-width:0.1;stroke:#45566c;fill:#45566c' />
+        <polygon points='44.82,64.97 49.95,62.92 45.33,56.00 43.50,56.00 41.04,56.61 40.79,58.93 ' style='stroke-width:0.1;stroke:#bb0400;fill:#bb0400' />
+        <polygon points='2.17,64.50 4.05,63.09 4.13,62.50 0.00,62.50 0.00,64.50 ' style='stroke-width:0.1;stroke:#303b43;fill:#303b43' />
+        <polygon points='32.75,65.00 33.83,65.00 35.17,63.00 32.13,58.44 30.00,59.50 ' style='stroke-width:0.1;stroke:#3f4b57;fill:#3f4b57' />
+        <polygon points='5.88,66.13 7.75,67.25 12.21,62.79 12.41,61.21 9.55,59.77 4.44,61.23 4.13,62.50 4.05,63.09 ' style='stroke-width:0.1;stroke:#374554;fill:#374554' />
+        <polygon points='31.25,66.00 32.75,65.00 30.00,59.50 29.36,59.64 27.50,61.50 25.43,64.40 24.95,66.00 ' style='stroke-width:0.1;stroke:#3c4d63;fill:#3c4d63' />
+        <polygon points='38.90,63.90 40.00,65.00 44.00,66.33 44.82,64.97 40.79,58.93 38.75,63.00 ' style='stroke-width:0.1;stroke:#1b1b1b;fill:#1b1b1b' />
+        <polygon points='78.46,67.94 80.54,67.06 83.07,64.02 75.36,61.45 74.75,62.38 ' style='stroke-width:0.1;stroke:#343f4d;fill:#343f4d' />
+        <polygon points='87.50,66.50 88.17,66.61 95.50,64.17 95.50,62.50 94.64,59.93 94.00,59.50 91.50,59.50 86.25,64.75 ' style='stroke-width:0.1;stroke:#707f92;fill:#707f92' />
+        <polygon points='95.50,64.17 95.86,65.14 98.67,68.50 100.00,68.50 100.00,62.50 95.50,62.50 ' style='stroke-width:0.1;stroke:#97a1b6;fill:#97a1b6' />
+        <polygon points='14.90,69.50 16.70,69.50 20.83,66.06 13.10,60.90 12.41,61.21 12.21,62.79 ' style='stroke-width:0.1;stroke:#3c4b5e;fill:#3c4b5e' />
+        <polygon points='36.00,68.25 38.90,63.90 38.75,63.00 35.17,63.00 33.83,65.00 ' style='stroke-width:0.1;stroke:#34424f;fill:#34424f' />
+        <polygon points='1.00,68.00 2.17,64.50 0.00,64.50 0.00,68.50 ' style='stroke-width:0.1;stroke:#303c46;fill:#303c46' />
+        <polygon points='69.10,67.30 71.06,70.72 74.00,69.25 74.00,62.75 69.15,63.56 68.67,63.83 ' style='stroke-width:0.1;stroke:#7b889c;fill:#7b889c' />
+        <polygon points='74.00,69.25 77.92,68.60 78.46,67.94 74.75,62.38 74.00,62.75 ' style='stroke-width:0.1;stroke:#657487;fill:#657487' />
+        <polygon points='3.25,68.75 5.88,66.13 4.05,63.09 2.17,64.50 1.00,68.00 ' style='stroke-width:0.1;stroke:#354350;fill:#354350' />
+        <polygon points='8.36,69.07 13.94,70.19 14.90,69.50 12.21,62.79 7.75,67.25 ' style='stroke-width:0.1;stroke:#3e4d60;fill:#3e4d60' />
+        <polygon points='33.00,69.50 34.23,70.12 36.00,68.70 36.00,68.25 33.83,65.00 32.75,65.00 31.25,66.00 ' style='stroke-width:0.1;stroke:#152117;fill:#152117' />
+        <polygon points='36.00,68.70 40.00,70.30 40.00,65.00 38.90,63.90 36.00,68.25 ' style='stroke-width:0.1;stroke:#657487;fill:#657487' />
+        <polygon points='40.00,70.30 43.04,72.73 43.13,72.74 44.00,71.00 44.00,66.33 40.00,65.00 ' style='stroke-width:0.1;stroke:#2d363d;fill:#2d363d' />
+        <polygon points='44.00,71.00 49.38,68.31 51.29,63.52 49.95,62.92 44.82,64.97 44.00,66.33 ' style='stroke-width:0.1;stroke:#b40808;fill:#b40808' />
+        <polygon points='62.93,67.21 65.50,68.50 69.10,67.30 68.67,63.83 66.25,62.63 62.28,64.61 ' style='stroke-width:0.1;stroke:#2f393c;fill:#2f393c' />
+        <polygon points='91.50,68.83 92.50,68.50 95.86,65.14 95.50,64.17 88.17,66.61 ' style='stroke-width:0.1;stroke:#48596f;fill:#48596f' />
+        <polygon points='25.80,68.82 28.50,69.50 33.00,69.50 31.25,66.00 24.95,66.00 ' style='stroke-width:0.1;stroke:#7f0e12;fill:#7f0e12' />
+        <polygon points='55.38,67.63 57.63,71.38 60.00,69.00 60.00,64.29 58.11,63.48 54.88,64.19 ' style='stroke-width:0.1;stroke:#520c00;fill:#520c00' />
+        <polygon points='60.00,69.00 62.33,69.00 62.93,67.21 62.28,64.61 60.00,64.29 ' style='stroke-width:0.1;stroke:#e1120c;fill:#e1120c' />
+        <polygon points='4.29,71.86 7.71,70.14 8.36,69.07 7.75,67.25 5.88,66.13 3.25,68.75 ' style='stroke-width:0.1;stroke:#9ea3b7;fill:#9ea3b7' />
+        <polygon points='51.25,71.13 51.67,71.33 55.38,67.63 54.88,64.19 53.19,63.35 51.29,63.52 49.38,68.31 ' style='stroke-width:0.1;stroke:#ba090d;fill:#ba090d' />
+        <polygon points='62.79,70.36 64.13,71.25 65.50,68.50 62.93,67.21 62.33,69.00 ' style='stroke-width:0.1;stroke:#393f4b;fill:#393f4b' />
+        <polygon points='83.68,71.77 85.89,72.66 86.67,71.50 87.50,66.50 86.25,64.75 83.41,63.80 83.07,64.02 80.54,67.06 ' style='stroke-width:0.1;stroke:#b0bacf;fill:#b0bacf' />
+        <polygon points='96.20,72.20 98.67,68.50 95.86,65.14 92.50,68.50 ' style='stroke-width:0.1;stroke:#3c4b5e;fill:#3c4b5e' />
+        <polygon points='1.41,73.14 4.18,72.03 4.29,71.86 3.25,68.75 1.00,68.00 0.00,68.50 0.00,72.67 ' style='stroke-width:0.1;stroke:#364558;fill:#364558' />
+        <polygon points='57.83,72.83 62.79,70.36 62.33,69.00 60.00,69.00 57.63,71.38 ' style='stroke-width:0.1;stroke:#d3332f;fill:#d3332f' />
+        <polygon points='64.95,72.91 68.88,73.56 70.67,72.67 71.06,70.72 69.10,67.30 65.50,68.50 64.13,71.25 ' style='stroke-width:0.1;stroke:#5a687e;fill:#5a687e' />
+        <polygon points='91.50,71.50 91.50,68.83 88.17,66.61 87.50,66.50 86.67,71.50 ' style='stroke-width:0.1;stroke:#505f72;fill:#505f72' />
+        <polygon points='91.50,71.50 94.50,74.50 95.21,74.50 96.20,72.20 92.50,68.50 91.50,68.83 ' style='stroke-width:0.1;stroke:#3f5163;fill:#3f5163' />
+        <polygon points='17.90,71.50 25.50,71.50 25.80,68.82 24.95,66.00 21.00,66.00 20.83,66.06 16.70,69.50 ' style='stroke-width:0.1;stroke:#4e5f75;fill:#4e5f75' />
+        <polygon points='33.17,74.17 33.75,73.00 34.23,70.12 33.00,69.50 28.50,69.50 ' style='stroke-width:0.1;stroke:#2a140b;fill:#2a140b' />
+        <polygon points='43.33,73.00 47.50,73.00 51.25,71.13 49.38,68.31 44.00,71.00 43.13,72.74 ' style='stroke-width:0.1;stroke:#191007;fill:#191007' />
+        <polygon points='53.00,74.00 57.69,74.00 57.83,72.83 57.63,71.38 55.38,67.63 51.67,71.33 ' style='stroke-width:0.1;stroke:#410d01;fill:#410d01' />
+        <polygon points='78.88,73.38 83.68,71.77 80.54,67.06 78.46,67.94 77.92,68.60 ' style='stroke-width:0.1;stroke:#1a1609;fill:#1a1609' />
+        <polygon points='9.67,76.00 11.00,76.00 12.50,74.50 13.94,70.19 8.36,69.07 7.71,70.14 ' style='stroke-width:0.1;stroke:#34424f;fill:#34424f' />
+        <polygon points='18.97,74.18 20.33,75.00 23.00,75.00 25.50,72.50 25.50,71.50 17.90,71.50 ' style='stroke-width:0.1;stroke:#556477;fill:#556477' />
+        <polygon points='25.50,72.50 31.09,76.97 32.01,77.32 32.28,77.27 33.17,74.17 28.50,69.50 25.80,68.82 25.50,71.50 ' style='stroke-width:0.1;stroke:#35414d;fill:#35414d' />
+        <polygon points='42.50,73.00 43.04,72.73 40.00,70.30 36.00,68.70 34.23,70.12 33.75,73.00 ' style='stroke-width:0.1;stroke:#3f4758;fill:#3f4758' />
+        <polygon points='58.94,76.00 60.83,76.00 64.95,72.91 64.13,71.25 62.79,70.36 57.83,72.83 57.69,74.00 ' style='stroke-width:0.1;stroke:#344656;fill:#344656' />
+        <polygon points='74.83,76.83 75.23,77.08 78.21,75.38 78.88,73.38 77.92,68.60 74.00,69.25 71.06,70.72 70.67,72.67 ' style='stroke-width:0.1;stroke:#9aa4b9;fill:#9aa4b9' />
+        <polygon points='7.46,76.94 9.67,76.00 7.71,70.14 4.29,71.86 4.18,72.03 ' style='stroke-width:0.1;stroke:#4c5a70;fill:#4c5a70' />
+        <polygon points='51.25,74.88 53.00,74.00 51.67,71.33 51.25,71.13 47.50,73.00 ' style='stroke-width:0.1;stroke:#1e0f00;fill:#1e0f00' />
+        <polygon points='86.20,75.08 87.00,76.20 93.83,74.83 94.50,74.50 91.50,71.50 86.67,71.50 85.89,72.66 ' style='stroke-width:0.1;stroke:#3e5062;fill:#3e5062' />
+        <polygon points='96.88,76.44 98.00,77.00 100.00,77.00 100.00,68.50 98.67,68.50 96.20,72.20 95.21,74.50 ' style='stroke-width:0.1;stroke:#364451;fill:#364451' />
+        <polygon points='16.50,75.83 18.97,74.18 17.90,71.50 16.70,69.50 14.90,69.50 13.94,70.19 12.50,74.50 ' style='stroke-width:0.1;stroke:#384758;fill:#384758' />
+        <polygon points='34.88,78.71 42.50,73.00 33.75,73.00 33.17,74.17 32.28,77.27 ' style='stroke-width:0.1;stroke:#7e8b9f;fill:#7e8b9f' />
+        <polygon points='80.81,76.42 86.20,75.08 85.89,72.66 83.68,71.77 78.88,73.38 78.21,75.38 ' style='stroke-width:0.1;stroke:#dee7fa;fill:#dee7fa' />
+        <polygon points='2.38,77.00 4.25,79.50 4.95,79.96 7.46,76.94 4.18,72.03 1.41,73.14 ' style='stroke-width:0.1;stroke:#323e48;fill:#323e48' />
+        <polygon points='44.06,75.17 47.10,78.83 48.50,79.00 51.25,74.88 47.50,73.00 43.33,73.00 ' style='stroke-width:0.1;stroke:#354048;fill:#354048' />
+        <polygon points='2.38,77.00 1.41,73.14 0.00,72.67 0.00,77.00 ' style='stroke-width:0.1;stroke:#5c697d;fill:#5c697d' />
+        <polygon points='65.50,79.50 67.64,76.64 68.88,73.56 64.95,72.91 60.83,76.00 ' style='stroke-width:0.1;stroke:#637285;fill:#637285' />
+        <polygon points='13.36,79.93 15.50,81.00 16.50,79.00 16.50,75.83 12.50,74.50 11.00,76.00 ' style='stroke-width:0.1;stroke:#394756;fill:#394756' />
+        <polygon points='16.50,79.00 19.50,77.50 20.33,75.00 18.97,74.18 16.50,75.83 ' style='stroke-width:0.1;stroke:#3c4b5e;fill:#3c4b5e' />
+        <polygon points='23.88,79.38 31.09,76.97 25.50,72.50 23.00,75.00 ' style='stroke-width:0.1;stroke:#6f7c90;fill:#6f7c90' />
+        <polygon points='51.50,81.00 53.00,81.00 53.00,74.00 51.25,74.88 48.50,79.00 ' style='stroke-width:0.1;stroke:#2a2c2f;fill:#2a2c2f' />
+        <polygon points='53.00,81.00 54.09,81.27 57.92,78.72 58.94,76.00 57.69,74.00 53.00,74.00 ' style='stroke-width:0.1;stroke:#46576c;fill:#46576c' />
+        <polygon points='4.25,79.50 2.38,77.00 0.00,77.00 0.00,79.50 ' style='stroke-width:0.1;stroke:#323c49;fill:#323c49' />
+        <polygon points='21.50,81.50 22.06,81.69 23.28,81.17 23.88,79.38 23.00,75.00 20.33,75.00 19.50,77.50 ' style='stroke-width:0.1;stroke:#8b95aa;fill:#8b95aa' />
+        <polygon points='35.00,78.90 39.36,80.64 42.50,77.50 44.06,75.17 43.33,73.00 43.13,72.74 43.04,72.73 42.50,73.00 34.88,78.71 ' style='stroke-width:0.1;stroke:#b0bacf;fill:#b0bacf' />
+        <polygon points='70.17,79.17 74.83,76.83 70.67,72.67 68.88,73.56 67.64,76.64 ' style='stroke-width:0.1;stroke:#a2acc1;fill:#a2acc1' />
+        <polygon points='81.50,78.50 84.50,80.00 87.00,80.00 87.00,76.20 86.20,75.08 80.81,76.42 ' style='stroke-width:0.1;stroke:#788599;fill:#788599' />
+        <polygon points='87.00,80.00 87.50,81.00 90.75,81.00 93.83,74.83 87.00,76.20 ' style='stroke-width:0.1;stroke:#3a495a;fill:#3a495a' />
+        <polygon points='15.79,81.50 21.50,81.50 19.50,77.50 16.50,79.00 15.50,81.00 ' style='stroke-width:0.1;stroke:#626f83;fill:#626f83' />
+        <polygon points='65.71,81.00 66.08,81.85 69.21,81.07 70.17,79.17 67.64,76.64 65.50,79.50 ' style='stroke-width:0.1;stroke:#7f8ca0;fill:#7f8ca0' />
+        <polygon points='75.47,79.24 80.00,81.50 81.50,78.50 80.81,76.42 78.21,75.38 75.23,77.08 ' style='stroke-width:0.1;stroke:#97a4b8;fill:#97a4b8' />
+        <polygon points='93.18,81.97 96.88,76.44 95.21,74.50 94.50,74.50 93.83,74.83 90.75,81.00 ' style='stroke-width:0.1;stroke:#384758;fill:#384758' />
+        <polygon points='4.99,80.38 5.07,80.50 12.50,80.50 13.36,79.93 11.00,76.00 9.67,76.00 7.46,76.94 4.95,79.96 ' style='stroke-width:0.1;stroke:#323e48;fill:#323e48' />
+        <polygon points='26.00,82.80 29.09,82.18 32.01,77.32 31.09,76.97 23.88,79.38 23.28,81.17 ' style='stroke-width:0.1;stroke:#738094;fill:#738094' />
+        <polygon points='40.21,81.79 42.50,83.50 42.50,77.50 39.36,80.64 ' style='stroke-width:0.1;stroke:#4b4f5e;fill:#4b4f5e' />
+        <polygon points='42.50,83.50 44.75,82.75 47.10,78.83 44.06,75.17 42.50,77.50 ' style='stroke-width:0.1;stroke:#7a879b;fill:#7a879b' />
+        <polygon points='58.50,79.50 61.50,81.00 65.71,81.00 65.50,79.50 60.83,76.00 58.94,76.00 57.92,78.72 ' style='stroke-width:0.1;stroke:#657487;fill:#657487' />
+        <polygon points='72.00,82.00 74.29,82.00 75.47,79.24 75.23,77.08 74.83,76.83 70.17,79.17 69.21,81.07 ' style='stroke-width:0.1;stroke:#cbd2e6;fill:#cbd2e6' />
+        <polygon points='80.41,82.05 84.50,80.00 81.50,78.50 80.00,81.50 ' style='stroke-width:0.1;stroke:#788599;fill:#788599' />
+        <polygon points='0.95,83.41 4.99,80.38 4.95,79.96 4.25,79.50 0.00,79.50 0.00,83.60 ' style='stroke-width:0.1;stroke:#2d383e;fill:#2d383e' />
+        <polygon points='7.64,85.00 8.00,85.00 12.50,80.50 5.07,80.50 ' style='stroke-width:0.1;stroke:#323e48;fill:#323e48' />
+        <polygon points='93.29,82.14 97.33,84.17 98.00,81.50 98.00,77.00 96.88,76.44 93.18,81.97 ' style='stroke-width:0.1;stroke:#384655;fill:#384655' />
+        <polygon points='98.00,81.50 100.00,81.50 100.00,77.00 98.00,77.00 ' style='stroke-width:0.1;stroke:#384655;fill:#384655' />
+        <polygon points='60.83,86.50 61.50,86.50 61.50,81.00 58.50,79.50 ' style='stroke-width:0.1;stroke:#748195;fill:#748195' />
+        <polygon points='61.50,86.50 62.42,86.60 66.06,82.06 66.08,81.85 65.71,81.00 61.50,81.00 ' style='stroke-width:0.1;stroke:#68778a;fill:#68778a' />
+        <polygon points='80.80,84.02 81.81,84.42 86.00,83.38 87.32,81.73 87.50,81.00 87.00,80.00 84.50,80.00 80.41,82.05 ' style='stroke-width:0.1;stroke:#6d7c8f;fill:#6d7c8f' />
+        <polygon points='98.00,85.50 100.00,85.50 100.00,81.50 98.00,81.50 97.33,84.17 ' style='stroke-width:0.1;stroke:#384655;fill:#384655' />
+        <polygon points='11.41,86.14 15.35,84.56 15.79,81.50 15.50,81.00 13.36,79.93 12.50,80.50 8.00,85.00 ' style='stroke-width:0.1;stroke:#778697;fill:#778697' />
+        <polygon points='31.75,87.50 32.61,87.99 33.81,87.87 35.00,86.20 35.00,78.90 34.88,78.71 32.28,77.27 32.01,77.32 29.09,82.18 ' style='stroke-width:0.1;stroke:#97a1b6;fill:#97a1b6' />
+        <polygon points='35.00,86.20 36.00,86.00 40.21,81.79 39.36,80.64 35.00,78.90 ' style='stroke-width:0.1;stroke:#d8ddf1;fill:#d8ddf1' />
+        <polygon points='47.93,85.93 49.31,85.38 51.50,81.00 48.50,79.00 47.10,78.83 44.75,82.75 ' style='stroke-width:0.1;stroke:#3d4755;fill:#3d4755' />
+        <polygon points='55.32,84.95 58.39,87.41 60.83,86.50 58.50,79.50 57.92,78.72 54.09,81.27 ' style='stroke-width:0.1;stroke:#929cb1;fill:#929cb1' />
+        <polygon points='69.00,85.00 72.00,82.00 69.21,81.07 66.08,81.85 66.06,82.06 ' style='stroke-width:0.1;stroke:#808da3;fill:#808da3' />
+        <polygon points='75.03,87.23 76.34,87.37 80.80,84.02 80.41,82.05 80.00,81.50 75.47,79.24 74.29,82.00 ' style='stroke-width:0.1;stroke:#c4c9db;fill:#c4c9db' />
+        <polygon points='16.60,86.12 17.67,86.33 22.00,82.00 22.06,81.69 21.50,81.50 15.79,81.50 15.35,84.56 ' style='stroke-width:0.1;stroke:#3e4d60;fill:#3e4d60' />
+        <polygon points='41.67,86.00 42.50,83.50 40.21,81.79 36.00,86.00 ' style='stroke-width:0.1;stroke:#b7c0d5;fill:#b7c0d5' />
+        <polygon points='71.31,89.63 72.00,89.50 75.03,87.23 74.29,82.00 72.00,82.00 69.00,85.00 ' style='stroke-width:0.1;stroke:#919aad;fill:#919aad' />
+        <polygon points='90.83,87.00 91.67,87.00 93.29,82.14 93.18,81.97 90.75,81.00 87.50,81.00 87.32,81.73 ' style='stroke-width:0.1;stroke:#3c4b5e;fill:#3c4b5e' />
+        <polygon points='3.83,89.17 4.94,89.72 7.64,85.00 5.07,80.50 4.99,80.38 0.95,83.41 ' style='stroke-width:0.1;stroke:#2d383e;fill:#2d383e' />
+        <polygon points='22.00,88.50 22.00,82.00 17.67,86.33 ' style='stroke-width:0.1;stroke:#3b4a5d;fill:#3b4a5d' />
+        <polygon points='22.00,88.50 22.22,88.83 24.80,88.46 26.00,87.50 26.00,82.80 23.28,81.17 22.06,81.69 22.00,82.00 ' style='stroke-width:0.1;stroke:#3e5163;fill:#3e5163' />
+        <polygon points='26.00,87.50 31.75,87.50 29.09,82.18 26.00,82.80 ' style='stroke-width:0.1;stroke:#606f82;fill:#606f82' />
+        <polygon points='52.00,87.17 55.32,84.95 54.09,81.27 53.00,81.00 51.50,81.00 49.31,85.38 ' style='stroke-width:0.1;stroke:#333c4d;fill:#333c4d' />
+        <polygon points='95.48,89.29 98.00,85.50 97.33,84.17 93.29,82.14 91.67,87.00 ' style='stroke-width:0.1;stroke:#3a495a;fill:#3a495a' />
+        <polygon points='3.83,89.17 0.95,83.41 -0.00,83.60 0.00,88.40 ' style='stroke-width:0.1;stroke:#2f363d;fill:#2f363d' />
+        <polygon points='42.32,87.95 42.38,88.00 47.10,88.00 47.93,85.93 44.75,82.75 42.50,83.50 41.67,86.00 ' style='stroke-width:0.1;stroke:#3a4555;fill:#3a4555' />
+        <polygon points='63.64,88.07 67.17,89.83 69.85,90.60 71.31,89.63 69.00,85.00 66.06,82.06 62.42,86.60 ' style='stroke-width:0.1;stroke:#e6281a;fill:#e6281a' />
+        <polygon points='83.29,88.86 86.00,87.50 86.00,83.38 81.81,84.42 ' style='stroke-width:0.1;stroke:#6e7b8f;fill:#6e7b8f' />
+        <polygon points='86.00,87.50 88.50,88.75 90.83,87.00 87.32,81.73 86.00,83.38 ' style='stroke-width:0.1;stroke:#aab3c8;fill:#aab3c8' />
+        <polygon points='80.44,90.65 82.38,90.38 83.29,88.86 81.81,84.42 80.80,84.02 76.34,87.37 ' style='stroke-width:0.1;stroke:#6e7b8f;fill:#6e7b8f' />
+        <polygon points='12.85,91.92 14.83,92.17 15.17,91.83 16.60,86.12 15.35,84.56 11.41,86.14 ' style='stroke-width:0.1;stroke:#34404c;fill:#34404c' />
+        <polygon points='36.89,91.57 42.32,87.95 41.67,86.00 36.00,86.00 35.00,86.20 33.81,87.87 ' style='stroke-width:0.1;stroke:#333d48;fill:#333d48' />
+        <polygon points='48.50,91.50 51.31,90.38 52.00,89.00 52.00,87.17 49.31,85.38 47.93,85.93 47.10,88.00 ' style='stroke-width:0.1;stroke:#1e1e0a;fill:#1e1e0a' />
+        <polygon points='52.00,89.00 57.00,89.00 57.91,88.55 58.39,87.41 55.32,84.95 52.00,87.17 ' style='stroke-width:0.1;stroke:#9ea8bd;fill:#9ea8bd' />
+        <polygon points='5.40,92.00 5.86,93.14 7.57,93.83 8.70,93.70 12.85,91.92 11.41,86.14 8.00,85.00 7.64,85.00 4.94,89.72 ' style='stroke-width:0.1;stroke:#303c46;fill:#303c46' />
+        <polygon points='21.62,90.22 22.22,88.83 22.00,88.50 17.67,86.33 16.60,86.12 15.17,91.83 ' style='stroke-width:0.1;stroke:#384655;fill:#384655' />
+        <polygon points='95.65,90.88 100.00,92.33 100.00,85.50 98.00,85.50 95.48,89.29 ' style='stroke-width:0.1;stroke:#3d4c5f;fill:#3d4c5f' />
+        <polygon points='28.70,94.30 29.00,94.00 32.61,87.99 31.75,87.50 26.00,87.50 24.80,88.46 ' style='stroke-width:0.1;stroke:#4d5e74;fill:#4d5e74' />
+        <polygon points='44.05,94.68 45.71,95.24 47.07,94.83 48.50,91.50 47.10,88.00 42.38,88.00 ' style='stroke-width:0.1;stroke:#3a4759;fill:#3a4759' />
+        <polygon points='53.50,91.83 54.50,91.50 57.00,89.00 52.00,89.00 51.31,90.38 ' style='stroke-width:0.1;stroke:#d5def1;fill:#d5def1' />
+        <polygon points='87.42,95.42 88.50,93.90 88.50,88.75 86.00,87.50 83.29,88.86 82.38,90.38 ' style='stroke-width:0.1;stroke:#48596f;fill:#48596f' />
+        <polygon points='88.50,93.90 95.50,91.10 95.65,90.88 95.48,89.29 91.67,87.00 90.83,87.00 88.50,88.75 ' style='stroke-width:0.1;stroke:#44556b;fill:#44556b' />
+        <polygon points='5.40,92.00 4.94,89.72 3.83,89.17 0.00,88.40 0.00,92.00 ' style='stroke-width:0.1;stroke:#2f363d;fill:#2f363d' />
+        <polygon points='37.50,94.00 38.04,95.07 38.67,95.35 44.05,94.68 42.38,88.00 42.32,87.95 36.89,91.57 ' style='stroke-width:0.1;stroke:#c81f14;fill:#c81f14' />
+        <polygon points='59.29,95.43 61.00,96.00 63.64,88.07 62.42,86.60 61.50,86.50 60.83,86.50 58.39,87.41 57.91,88.55 ' style='stroke-width:0.1;stroke:#47556c;fill:#47556c' />
+        <polygon points='22.32,94.44 26.59,95.86 28.00,95.69 28.23,95.54 28.70,94.30 24.80,88.46 22.22,88.83 21.62,90.22 ' style='stroke-width:0.1;stroke:#3e5163;fill:#3e5163' />
+        <polygon points='58.60,95.60 59.29,95.43 57.91,88.55 57.00,89.00 54.50,91.50 ' style='stroke-width:0.1;stroke:#d7e0f3;fill:#d7e0f3' />
+        <polygon points='67.17,89.83 63.64,88.07 61.00,96.00 ' style='stroke-width:0.1;stroke:#360d05;fill:#360d05' />
+        <polygon points='73.50,91.50 75.83,93.83 78.86,94.59 80.44,90.65 76.34,87.37 75.03,87.23 72.00,89.50 ' style='stroke-width:0.1;stroke:#586a7c;fill:#586a7c' />
+        <polygon points='1.50,96.50 3.25,95.75 5.86,93.14 5.40,92.00 0.00,92.00 0.00,96.50 ' style='stroke-width:0.1;stroke:#2f363d;fill:#2f363d' />
+        <polygon points='17.00,96.50 19.75,96.50 22.32,94.44 21.62,90.22 15.17,91.83 14.83,92.17 ' style='stroke-width:0.1;stroke:#364451;fill:#364451' />
+        <polygon points='37.50,94.00 36.89,91.57 33.81,87.87 32.61,87.99 29.00,94.00 ' style='stroke-width:0.1;stroke:#768397;fill:#768397' />
+        <polygon points='48.50,95.64 51.50,96.93 53.50,96.36 53.50,91.83 51.31,90.38 48.50,91.50 47.07,94.83 ' style='stroke-width:0.1;stroke:#7f889b;fill:#7f889b' />
+        <polygon points='53.50,96.36 56.00,96.71 58.60,95.60 54.50,91.50 53.50,91.83 ' style='stroke-width:0.1;stroke:#ccd5e8;fill:#ccd5e8' />
+        <polygon points='61.50,96.50 67.00,96.50 68.60,95.58 69.85,90.60 67.17,89.83 61.00,96.00 ' style='stroke-width:0.1;stroke:#8792a4;fill:#8792a4' />
+        <polygon points='79.56,96.68 86.00,97.75 87.39,95.66 87.42,95.42 82.38,90.38 80.44,90.65 78.86,94.59 ' style='stroke-width:0.1;stroke:#778699;fill:#778699' />
+        <polygon points='33.50,98.70 38.04,95.07 37.50,94.00 29.00,94.00 28.70,94.30 28.23,95.54 ' style='stroke-width:0.1;stroke:#68778a;fill:#68778a' />
+        <polygon points='71.50,97.90 73.50,97.50 73.50,91.50 72.00,89.50 71.31,89.63 69.85,90.60 68.60,95.58 ' style='stroke-width:0.1;stroke:#57687e;fill:#57687e' />
+        <polygon points='73.50,97.50 74.00,97.50 75.83,93.83 73.50,91.50 ' style='stroke-width:0.1;stroke:#4e5f75;fill:#4e5f75' />
+        <polygon points='92.50,97.70 95.50,97.10 95.50,91.10 88.50,93.90 87.42,95.42 87.39,95.66 ' style='stroke-width:0.1;stroke:#3c4e60;fill:#3c4e60' />
+        <polygon points='95.50,97.10 96.68,98.05 100.00,95.83 100.00,92.33 95.65,90.88 95.50,91.10 ' style='stroke-width:0.1;stroke:#3e4d60;fill:#3e4d60' />
+        <polygon points='14.00,99.00 15.00,99.50 17.00,96.50 14.83,92.17 12.85,91.92 8.70,93.70 ' style='stroke-width:0.1;stroke:#313d49;fill:#313d49' />
+        <polygon points='76.00,98.50 79.50,96.75 79.56,96.68 78.86,94.59 75.83,93.83 74.00,97.50 ' style='stroke-width:0.1;stroke:#3e5062;fill:#3e5062' />
+        <polygon points='8.60,99.00 14.00,99.00 8.70,93.70 7.57,93.83 ' style='stroke-width:0.1;stroke:#34404c;fill:#34404c' />
+        <polygon points='20.00,97.00 23.00,100.00 23.83,100.00 26.59,95.86 22.32,94.44 19.75,96.50 ' style='stroke-width:0.1;stroke:#3a495a;fill:#3a495a' />
+        <polygon points='97.00,99.00 100.00,99.00 100.00,95.83 96.68,98.05 ' style='stroke-width:0.1;stroke:#3a495a;fill:#3a495a' />
+        <polygon points='4.67,100.00 8.40,100.00 8.60,99.00 7.57,93.83 5.86,93.14 3.25,95.75 ' style='stroke-width:0.1;stroke:#2e3941;fill:#2e3941' />
+        <polygon points='39.50,99.50 45.00,99.50 45.71,95.24 44.05,94.68 38.67,95.35 ' style='stroke-width:0.1;stroke:#7c899d;fill:#7c899d' />
+        <polygon points='1.50,96.50 0.00,96.50 0.00,100.00 1.50,100.00 ' style='stroke-width:0.1;stroke:#2f363d;fill:#2f363d' />
+        <polygon points='1.50,100.00 4.67,100.00 3.25,95.75 1.50,96.50 ' style='stroke-width:0.1;stroke:#2d383e;fill:#2d383e' />
+        <polygon points='15.00,99.50 14.00,99.00 8.60,99.00 8.40,100.00 15.00,100.00 ' style='stroke-width:0.1;stroke:#33414e;fill:#33414e' />
+        <polygon points='15.00,100.00 20.00,100.00 20.00,97.00 19.75,96.50 17.00,96.50 15.00,99.50 ' style='stroke-width:0.1;stroke:#374655;fill:#374655' />
+        <polygon points='20.00,100.00 23.00,100.00 20.00,97.00 ' style='stroke-width:0.1;stroke:#384758;fill:#384758' />
+        <polygon points='28.00,95.69 26.59,95.86 23.83,100.00 28.00,100.00 ' style='stroke-width:0.1;stroke:#3c4b5e;fill:#3c4b5e' />
+        <polygon points='28.00,100.00 33.50,100.00 33.50,98.70 28.23,95.54 28.00,95.69 ' style='stroke-width:0.1;stroke:#a1abc0;fill:#a1abc0' />
+        <polygon points='33.50,100.00 39.50,100.00 39.50,99.50 38.67,95.35 38.04,95.07 33.50,98.70 ' style='stroke-width:0.1;stroke:#7b889c;fill:#7b889c' />
+        <polygon points='39.50,100.00 45.00,100.00 45.00,99.50 39.50,99.50 ' style='stroke-width:0.1;stroke:#7c899d;fill:#7c899d' />
+        <polygon points='45.00,100.00 48.50,100.00 48.50,95.64 47.07,94.83 45.71,95.24 45.00,99.50 ' style='stroke-width:0.1;stroke:#8693a7;fill:#8693a7' />
+        <polygon points='48.50,100.00 51.50,100.00 51.50,96.93 48.50,95.64 ' style='stroke-width:0.1;stroke:#cbd2e6;fill:#cbd2e6' />
+        <polygon points='51.50,100.00 56.00,100.00 56.00,96.71 53.50,96.36 51.50,96.93 ' style='stroke-width:0.1;stroke:#707f92;fill:#707f92' />
+        <polygon points='56.00,100.00 61.50,100.00 61.50,96.50 61.00,96.00 59.29,95.43 58.60,95.60 56.00,96.71 ' style='stroke-width:0.1;stroke:#a3aec0;fill:#a3aec0' />
+        <polygon points='61.50,100.00 67.00,100.00 67.00,96.50 61.50,96.50 ' style='stroke-width:0.1;stroke:#788599;fill:#788599' />
+        <polygon points='67.00,100.00 71.50,100.00 71.50,97.90 68.60,95.58 67.00,96.50 ' style='stroke-width:0.1;stroke:#6f7e91;fill:#6f7e91' />
+        <polygon points='71.50,100.00 76.00,100.00 76.00,98.50 74.00,97.50 73.50,97.50 71.50,97.90 ' style='stroke-width:0.1;stroke:#46576d;fill:#46576d' />
+        <polygon points='76.00,100.00 79.50,100.00 79.50,96.75 76.00,98.50 ' style='stroke-width:0.1;stroke:#3a495a;fill:#3a495a' />
+        <polygon points='79.50,100.00 86.00,100.00 86.00,97.75 79.56,96.68 79.50,96.75 ' style='stroke-width:0.1;stroke:#384655;fill:#384655' />
+        <polygon points='86.00,100.00 92.50,100.00 92.50,97.70 87.39,95.66 86.00,97.75 ' style='stroke-width:0.1;stroke:#46586a;fill:#46586a' />
+        <polygon points='92.50,100.00 97.00,100.00 97.00,99.00 96.68,98.05 95.50,97.10 92.50,97.70 ' style='stroke-width:0.1;stroke:#384758;fill:#384758' />
+        <polygon points='97.00,100.00 100.00,100.00 100.00,99.00 97.00,99.00 ' style='stroke-width:0.1;stroke:#384756;fill:#384756' />
+</svg>

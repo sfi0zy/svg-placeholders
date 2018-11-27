@@ -1,0 +1,21 @@
+{
+  "name": "placeholders",
+  "version": "1.0.0",
+  "description": "We generate different SVG placeholders from JPG image here.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ivan Bogachev",
+  "license": "MIT",
+  "dependencies": {
+    "color-thief": "^2.2.3",
+    "delaunay-triangulate": "^1.1.6",
+    "get-pixels": "^3.3.2",
+    "handlebars": "^4.0.12",
+    "image-size": "^0.6.3",
+    "rgb-hex": "^2.1.0",
+    "voronoi": "^1.0.0"
+  }
+}
